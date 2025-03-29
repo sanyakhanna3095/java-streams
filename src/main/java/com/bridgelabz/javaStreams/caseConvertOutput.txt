@@ -1,0 +1,3 @@
+a sample input file is used to ensure an xml map is performing the mapping properly.
+the file can be automatically generated from the new xml mapping wizard or the xml map editor.
+you can also create your own file to use for testing.
