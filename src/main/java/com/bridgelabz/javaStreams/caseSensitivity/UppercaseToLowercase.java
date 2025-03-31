@@ -1,11 +1,11 @@
-package com.bridgelabz;
+package com.bridgelabz.javaStreams.caseSensitivity;
 
 import java.io.*;
 
 public class UppercaseToLowercase {
     public static void main(String[] args) {
         String inputFile = "/Users/sanyakhanna/Desktop/bridgelabz-workspace/Java-Streams/src/main/java/com/bridgelabz/javaStreams/input.txt";
-        String outputFile = "/Users/sanyakhanna/Desktop/bridgelabz-workspace/Java-Streams/src/main/java/com/bridgelabz/javaStreams/caseConvertOutput.txt";
+        String outputFile = "/Users/sanyakhanna/Desktop/bridgelabz-workspace/Java-Streams/src/main/java/com/bridgelabz/javaStreams/caseSensitivity/caseConvertOutput.txt";
 
         try {
             convertUppercaseToLowercase(inputFile, outputFile);
